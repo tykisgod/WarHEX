@@ -1,5 +1,7 @@
 ##ATTENION: LANGUAGE IN THIS GAME IS HALF CHINSES HALF ENGLISH, SORRY ABOUT THIS.##
 
+You can also download from here: https://tykhelloworld.itch.io/
+
 Click WarHex_Game/warhex.exe to start game.
 
 A turn based WWII hex game.
